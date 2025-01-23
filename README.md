@@ -1,1 +1,1 @@
-# CarryingYouTransposed
+`notes.spnmn` 是一份《伴随着你》（《天空之城》片尾曲）的竹笛谱，筒音作 5 。 `original.png` 是移调前的谱。
